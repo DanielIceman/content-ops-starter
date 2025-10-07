@@ -1,33 +1,33 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "url": "/images/arctic-workforce-logo-white.svg",
+        "altText": "Arctic Workforce",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Trusted workforce solutions for the Nordic region",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Services",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Recruitment & Vetting",
+                "altText": "Recruitment services",
+                "url": "#services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Temporary Staffing",
+                "url": "#services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Relocation & Support",
+                "url": "#services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -40,17 +40,17 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "About Us",
+                "altText": "About Arctic Workforce",
+                "url": "#about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Contact",
+                "url": "#contact",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,49 +61,45 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/arctic-workforce",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:contact@arcticworkforce.com",
             "icon": "mail",
             "type": "Social"
         }
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "Impressum",
+            "url": "/impressum",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
+            "label": "Privacy Policy",
+            "url": "/privacy",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Terms of Service",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "© 2024 Arctic Workforce AS. All rights reserved.",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

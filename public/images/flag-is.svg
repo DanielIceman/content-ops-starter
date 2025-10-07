@@ -1,0 +1,8 @@
+<svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icelandic Flag -->
+  <rect width="24" height="16" fill="#0048E0"/>
+  <rect x="6" width="3" height="16" fill="#ffffff"/>
+  <rect y="6.5" width="24" height="3" fill="#ffffff"/>
+  <rect x="7" width="1" height="16" fill="#D72828"/>
+  <rect y="7.5" width="24" height="1" fill="#D72828"/>
+</svg>

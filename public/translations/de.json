@@ -1,0 +1,58 @@
+{
+  "header": {
+    "services": "Unsere Dienstleistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "getStarted": "Loslegen",
+    "ourServices": "Unsere Dienstleistungen"
+  },
+  "hero": {
+    "title": "Vertrauensvolle Arbeitskräftelösungen für den Norden",
+    "subtitle": "Wir verbinden talentierte Fachkräfte mit führenden Unternehmen in der nordischen Region und bieten ethische Personalvermittlung, flexible Personaldienstleistungen und umfassende Umzugsunterstützung.",
+    "getStarted": "Loslegen",
+    "ourServices": "Unsere Dienstleistungen"
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Professionelle Arbeitskräftelösungen maßgeschneidert für Ihre Bedürfnisse",
+    "recruitment": {
+      "title": "Personalvermittlung & Überprüfung",
+      "description": "Umfassende Talentakquise mit gründlicher Hintergrundprüfung und Kompetenzbewertung, um die perfekte Übereinstimmung für Ihr Unternehmen zu finden."
+    },
+    "staffing": {
+      "title": "Zeitarbeit",
+      "description": "Flexible Personallösungen für Ihren kurz- und projektbezogenen Arbeitskräftebedarf mit qualifizierten Fachkräften."
+    },
+    "relocation": {
+      "title": "Umzug & Unterstützung",
+      "description": "Komplette Umzugsunterstützung einschließlich Visa-Support, Wohnungsarrangements und kultureller Integration für reibungslose Übergänge."
+    }
+  },
+  "about": {
+    "title": "Aufbau langfristiger Partnerschaften",
+    "subtitle": "Ethische Personalvermittlung für eine nachhaltige Zukunft",
+    "description": "Bei Arctic Workforce glauben wir an die Schaffung dauerhafter Beziehungen, die auf Vertrauen, Fairness und gegenseitigem Respekt basieren. Unser ethischer Ansatz bei der Personalvermittlung stellt sicher, dass sowohl Arbeitgeber als auch Arbeitnehmer von nachhaltigen, langfristigen Partnerschaften profitieren, die den Erfolg in der nordischen Region vorantreiben."
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Bereit, Ihre nächste Gelegenheit zu finden oder Top-Talente einzustellen?",
+    "form": {
+      "name": "Name",
+      "company": "Unternehmen",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "submit": "Nachricht senden"
+    },
+    "info": {
+      "address": "Arctic Workforce AS\nStorgata 123\n0184 Oslo, Norwegen",
+      "phone": "+47 22 12 34 56",
+      "email": "contact@arcticworkforce.com"
+    }
+  },
+  "footer": {
+    "impressum": "Impressum",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2024 Arctic Workforce AS. Alle Rechte vorbehalten."
+  }
+}

@@ -5,6 +5,7 @@ import classNames from 'classnames';
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { Link, Action } from '../../atoms';
+import LanguageSwitcher from '../../atoms/LanguageSwitcher';
 import ImageBlock from '../../blocks/ImageBlock';
 import ChevronDownIcon from '../../svgs/chevron-down';
 import CloseIcon from '../../svgs/close';
@@ -93,11 +94,14 @@ function HeaderLogoLeftPrimaryCentered(props) {
                     <ListOfLinks links={primaryLinks} colors={colors} enableAnnotations={enableAnnotations} />
                 </ul>
             )}
-            {secondaryLinks.length > 0 && (
-                <ul className="hidden lg:flex lg:items-center ml-auto gap-x-2.5" {...(enableAnnotations && { 'data-sb-field-path': 'secondaryLinks' })}>
-                    <ListOfLinks links={secondaryLinks} enableAnnotations={enableAnnotations} />
-                </ul>
-            )}
+            <div className="hidden lg:flex lg:items-center ml-auto gap-x-4">
+                <LanguageSwitcher />
+                {secondaryLinks.length > 0 && (
+                    <ul className="flex items-center gap-x-2.5" {...(enableAnnotations && { 'data-sb-field-path': 'secondaryLinks' })}>
+                        <ListOfLinks links={secondaryLinks} enableAnnotations={enableAnnotations} />
+                    </ul>
+                )}
+            </div>
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
         </div>
     );

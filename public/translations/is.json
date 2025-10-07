@@ -1,0 +1,58 @@
+{
+  "header": {
+    "services": "Þjónusta okkar",
+    "about": "Um okkur",
+    "contact": "Samband",
+    "getStarted": "Byrjaðu",
+    "ourServices": "Þjónusta okkar"
+  },
+  "hero": {
+    "title": "Áreiðanlegar vinnuaflslausnir fyrir Norðurlönd",
+    "subtitle": "Við tengum hæfileikaríka fagfólk við leiðandi fyrirtæki víðsvegar um Norðurlönd og bjóðum upp á siðferðilega ráðningu, sveigjanleika í starfsmannamálum og yfirgripsmikla flutningstengda þjónustu.",
+    "getStarted": "Byrjaðu",
+    "ourServices": "Þjónusta okkar"
+  },
+  "services": {
+    "title": "Þjónusta okkar",
+    "subtitle": "Fagleg vinnuaflslausnir sérsniðnar að þínum þörfum",
+    "recruitment": {
+      "title": "Ráðning og mat",
+      "description": "Yfirgripsmikil hæfileikaleit með ítarlegum bakgrunnsathugunum og hæfnimati til að finna fullkomna samsvörun fyrir stofnunina þína."
+    },
+    "staffing": {
+      "title": "Tímabundið starfsfólk",
+      "description": "Sveigjanlegar starfsmannalausnir til að mæta skammtíma og verkefnatengdum vinnuaflsþörfum þínum með hæfu fagfólki."
+    },
+    "relocation": {
+      "title": "Flutningur og stuðningur",
+      "description": "Fullkomin flutningsaðstoð þar á meðal vegabréfsáritanir, húsnæðisúrræði og menningarleg aðlögun til að tryggja snurðulausa umskipti."
+    }
+  },
+  "about": {
+    "title": "Að byggja upp langtíma samstarf",
+    "subtitle": "Siðferðileg ráðning fyrir sjálfbært framtíð",
+    "description": "Hjá Arctic Workforce trúum við á að skapa varanlega tengsl byggð á trausti, sanngirni og gagnkvæmri virðingu. Siðferðileg nálgun okkar við ráðningar tryggir að bæði atvinnurekendur og starfsmenn njóti góðs af sjálfbæru, langtíma samstarfi sem knýr áfram árangur víðsvegar um Norðurlönd."
+  },
+  "contact": {
+    "title": "Hafðu samband",
+    "subtitle": "Tilbúinn að finna næsta tækifæri þitt eða ráða fremsta hæfileikafólk?",
+    "form": {
+      "name": "Nafn",
+      "company": "Fyrirtæki",
+      "email": "Tölvupóstur",
+      "message": "Skilaboð",
+      "submit": "Senda skilaboð"
+    },
+    "info": {
+      "address": "Arctic Workforce AS\nStorgata 123\n0184 Osló, Noregur",
+      "phone": "+47 22 12 34 56",
+      "email": "contact@arcticworkforce.com"
+    }
+  },
+  "footer": {
+    "impressum": "Impressum",
+    "privacy": "Persónuverndarstefna",
+    "terms": "Þjónustuskilmálar",
+    "copyright": "© 2024 Arctic Workforce AS. Öll réttindi áskilin."
+  }
+}

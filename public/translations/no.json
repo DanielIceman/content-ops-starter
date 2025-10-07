@@ -1,0 +1,58 @@
+{
+  "header": {
+    "services": "Våre tjenester",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "getStarted": "Kom i gang",
+    "ourServices": "Våre tjenester"
+  },
+  "hero": {
+    "title": "Pålitelige arbeidskraftløsninger for Nord",
+    "subtitle": "Vi kobler talentfulle fagfolk med ledende bedrifter i den nordiske regionen, og tilbyr etisk rekruttering, fleksible bemanningsløsninger og omfattende flyttestøtte.",
+    "getStarted": "Kom i gang",
+    "ourServices": "Våre tjenester"
+  },
+  "services": {
+    "title": "Våre tjenester",
+    "subtitle": "Profesjonelle arbeidskraftløsninger tilpasset dine behov",
+    "recruitment": {
+      "title": "Rekruttering og vurdering",
+      "description": "Omfattende talentanskaffelse med grundige bakgrunnssjekker og kompetansevurdering for å finne det perfekte matchet for din organisasjon."
+    },
+    "staffing": {
+      "title": "Midlertidig bemanning",
+      "description": "Fleksible bemanningsløsninger for å møte dine kortsiktige og prosjektbaserte arbeidskraftbehov med kvalifiserte fagfolk."
+    },
+    "relocation": {
+      "title": "Flytting og støtte",
+      "description": "Komplett flytteassistanse inkludert visastøtte, boligarrangementer og kulturell integrasjon for å sikre smidig overgang."
+    }
+  },
+  "about": {
+    "title": "Bygge langsiktige partnerskap",
+    "subtitle": "Etisk rekruttering for en bærekraftig fremtid",
+    "description": "Hos Arctic Workforce tror vi på å skape varige relasjoner bygd på tillit, rettferdighet og gjensidig respekt. Vår etiske tilnærming til rekruttering sikrer at både arbeidsgivere og arbeidstakere drar nytte av bærekraftige, langsiktige partnerskap som driver suksess i den nordiske regionen."
+  },
+  "contact": {
+    "title": "Kom i kontakt",
+    "subtitle": "Klar til å finne din neste mulighet eller ansette topptalenter?",
+    "form": {
+      "name": "Navn",
+      "company": "Bedrift",
+      "email": "E-post",
+      "message": "Melding",
+      "submit": "Send melding"
+    },
+    "info": {
+      "address": "Arctic Workforce AS\nStorgata 123\n0184 Oslo, Norge",
+      "phone": "+47 22 12 34 56",
+      "email": "contact@arcticworkforce.com"
+    }
+  },
+  "footer": {
+    "impressum": "Impressum",
+    "privacy": "Personvernregler",
+    "terms": "Vilkår for bruk",
+    "copyright": "© 2024 Arctic Workforce AS. Alle rettigheter reservert."
+  }
+}

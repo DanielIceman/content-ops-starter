@@ -1,0 +1,58 @@
+{
+  "header": {
+    "services": "Serviciile noastre",
+    "about": "Despre noi",
+    "contact": "Contact",
+    "getStarted": "Începe",
+    "ourServices": "Serviciile noastre"
+  },
+  "hero": {
+    "title": "Soluții de forță de muncă de încredere pentru Nord",
+    "subtitle": "Conectăm profesioniști talentați cu companii de top din regiunea nordică, oferind recrutare etică, servicii de personal flexibile și suport complet pentru relocare.",
+    "getStarted": "Începe",
+    "ourServices": "Serviciile noastre"
+  },
+  "services": {
+    "title": "Serviciile noastre",
+    "subtitle": "Soluții profesionale de forță de muncă adaptate nevoilor dvs.",
+    "recruitment": {
+      "title": "Recrutare și verificare",
+      "description": "Achiziție comprehensivă de talente cu verificări amănunțite ale experienței și evaluarea competențelor pentru a găsi potrivirea perfectă pentru organizația dvs."
+    },
+    "staffing": {
+      "title": "Personal temporar",
+      "description": "Soluții flexibile de personal pentru a satisface nevoile dvs. de forță de muncă pe termen scurt și bazate pe proiecte cu profesioniști calificați."
+    },
+    "relocation": {
+      "title": "Relocare și suport",
+      "description": "Asistență completă pentru relocare, inclusiv suport pentru vize, aranjamente de cazare și integrare culturală pentru tranziții fără probleme."
+    }
+  },
+  "about": {
+    "title": "Construirea parteneriatelor pe termen lung",
+    "subtitle": "Recrutare etică pentru un viitor durabil",
+    "description": "La Arctic Workforce, credem în crearea de relații durabile bazate pe încredere, corectitudine și respect reciproc. Abordarea noastră etică asupra recrutării asigură că atât angajatorii, cât și angajații beneficiază de parteneriate durabile, pe termen lung, care conduc la succes în întreaga regiune nordică."
+  },
+  "contact": {
+    "title": "Luați legătura",
+    "subtitle": "Gata să vă găsiți următoarea oportunitate sau să angajați talente de top?",
+    "form": {
+      "name": "Nume",
+      "company": "Companie",
+      "email": "Email",
+      "message": "Mesaj",
+      "submit": "Trimite mesaj"
+    },
+    "info": {
+      "address": "Arctic Workforce AS\nStorgata 123\n0184 Oslo, Norvegia",
+      "phone": "+47 22 12 34 56",
+      "email": "contact@arcticworkforce.com"
+    }
+  },
+  "footer": {
+    "impressum": "Impressum",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termenii serviciului",
+    "copyright": "© 2024 Arctic Workforce AS. Toate drepturile rezervate."
+  }
+}
